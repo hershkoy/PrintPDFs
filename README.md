@@ -6,5 +6,5 @@ With a simple User Interface, just add the folder that includes the PDFs and cli
 
 I really needed it for myself, and I hope that you find it useful as well. 
 
-
+![printPDFs_ui](printPDFs_ui.png)
 
